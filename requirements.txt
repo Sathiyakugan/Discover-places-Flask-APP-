@@ -3,7 +3,7 @@ Flask-SQLAlchemy==2.3.2
 Flask-WTF==0.14.2
 SQLAlchemy==1.2.10
 WTForms==2.2.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 click==6.7
 decorator==4.0.2
 geocoder==1.4.1
